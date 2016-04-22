@@ -39,7 +39,7 @@ odata:
 ionic:
   tty: true
   stdin_open: true
-  image: ionic_appconfig
+  image: hasrshita1994/ionic_appscript
   ports:
     - 8100:8100
   links:
